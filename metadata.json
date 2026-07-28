@@ -1,0 +1,5 @@
+{
+  "name": "Loan Rejection Experiment",
+  "description": "A master thesis project comparing static SHAP explanations vs conversational AI explanations for credit risk decisions.",
+  "requestFramePermissions": []
+}
