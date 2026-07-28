@@ -14,9 +14,9 @@ This project is a React-based web application for exploring explainable AI in lo
    ```bash
    npm install
    ```
-3. Copy the example environment file and add your Gemini API key:
+3. Create the environment file and add your Gemini API key:
    ```bash
-   cp .env
+   touch .env
    ```
    Then edit `.env` and add your API key:
    ```env
