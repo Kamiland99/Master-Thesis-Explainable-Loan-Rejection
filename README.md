@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Master-Thesis-Explainable-Loan-Rejection
-This project is a React-based web application for exploring explainable AI in loan rejection scenarios. It is part of a Master Thesis project at Universität Wien (University of Vienna) and also includes a Python script for retraining the underlying machine learning model and generating new applicant data.
-=======
 # Loan Rejection Experiment - Local Setup
 
 This project is a React-based web application for exploring explainable AI in loan rejection scenarios. It is part of a Master Thesis project at Universität Wien (University of Vienna) and also includes a Python script for retraining the underlying machine learning model and generating new applicant data.
@@ -86,4 +82,3 @@ The experiment uses the **German Credit Database** (UCI Machine Learning Reposit
 - `train_loan_model.py`: Python script for model training and SHAP calculation.
 - `requirements.txt`: Python dependencies for the training script.
 - `package.json`: React application dependencies and scripts.
->>>>>>> 76fbfb0 (Working Loan Rejection Experiment)
