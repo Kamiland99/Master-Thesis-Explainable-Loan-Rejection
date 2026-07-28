@@ -1,4 +1,5 @@
 """
+# Dataset: Statlog (German Credit Data) by Hans Hofmann. Licensed under CC BY 4.0.
 Train loan risk model on German Credit dataset
 
 Key fixes:
