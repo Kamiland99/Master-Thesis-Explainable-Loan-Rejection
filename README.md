@@ -82,3 +82,10 @@ The experiment uses the **German Credit Database** (UCI Machine Learning Reposit
 - `train_loan_model.py`: Python script for model training and SHAP calculation.
 - `requirements.txt`: Python dependencies for the training script.
 - `package.json`: React application dependencies and scripts.
+
+## Data Attribution & License
+
+This project utilises the **Statlog (German Credit Data)** dataset from the UCI Machine Learning Repository. 
+
+- **Citation:** Hofmann, Hans. (1994). Statlog (German Credit Data). UCI Machine Learning Repository. https://doi.org/10.24432/C5NC77.
+- **License:** This dataset is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
