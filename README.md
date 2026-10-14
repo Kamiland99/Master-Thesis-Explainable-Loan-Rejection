@@ -2,8 +2,8 @@
 
 This repository contains the companion code for the Master's thesis:
 
-> **Kamil Andrzejewski** — *Conversational XAI: Comparing Static and Conversational
-> Explanations of Automated Loan Rejections*
+> **Kamil Andrzejewski** — *Evaluating the Impact of Conversational LLMs on User
+Understanding and Recourse in Automated Loan Rejections*
 > Master's thesis, MSc Business Informatics (Masterstudium Wirtschaftsinformatik),
 > University of Vienna (Universität Wien), 2026.
 
